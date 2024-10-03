@@ -1,8 +1,11 @@
-import easyocr
-import pandas as pd
+# import easyocr
+# import pandas as pd
 
-reader = easyocr.Reader(["en"], gpu=False)
-result = reader.readtext("SPOILER_image.jpg")
-result = pd.DataFrame(result)
+# reader = easyocr.Reader(["en"], gpu=True)
+# result = reader.readtext("SPOILER_image.jpg")
+# result = pd.DataFrame(result)
 
-print(result)
+# print(result)
+import torch
+
+print(torch.cuda.is_available())
