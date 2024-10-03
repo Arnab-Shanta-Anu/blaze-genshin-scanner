@@ -1,0 +1,3 @@
+- get pyautogui to move cursor
+- get pillow Imagegrab(bbox) to capture specific area
+- make a gui
