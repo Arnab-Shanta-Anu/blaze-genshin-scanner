@@ -1,36 +1,9 @@
 from models.artifact import Artifact, Substat
 from models.weapon import Weapon
 from models.character import Character, Talent
+from models.GOOD import Good
 
 import json
-
-
-class Good:
-    def __init__(self, characters, artifacts, weapons):
-        self.format = "GOOD"
-        self.source = "blaze genshin scanner"
-        self.version = 1
-        self.characters = characters
-        self.artifacts = artifacts
-        self.weapons = weapons
-
-    def toJson(self):
-        characters = []
-        for character in self.characters:
-            characters.append(character.toJson())
-        self.characters = characters
-
-        artifacts = []
-        for artifact in self.artifacts:
-            artifacts.append(artifact.toJson())
-        self.artifacts = artifacts
-
-        weapons = []
-        for weapon in self.weapons:
-            weapons.append(weapon.toJson())
-        self.weapons = weapons
-
-        return self.__dict__
 
 
 good = Good(
@@ -120,7 +93,7 @@ good = Good(
     [Weapon("FangOfTheMountainKing", 80, 5, 1, "Gaming", True, 0)],
 )
 
-file = open("export.json", "x")
+file = open("genshin_data/export.json", "x")
 
 x = good.toJson()
 file.write(json.dumps(x))
