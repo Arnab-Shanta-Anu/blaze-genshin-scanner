@@ -1,9 +1,57 @@
-The Wine-Flask Over Which the PlanWas Hatched 
-Goblet of Eonothem
-Elemental Mastery 187
-+20
-HP +14.0%
-HP +269
-DEF +63
-CRIT DMG +7.8%
-Unfinished Reverie:2-Piece Set: ATK +18%.4-Piece Set: Afterleavingcombat for 3s, DMG dealtincreased by 50%. In combat; ifnoBurning opponents arenearby for more than 6s, thisDMG Bonus will decrease by10% per second until it reaches0%. When aBurning opponentovictoIillincromcohu 10oArtifactsuiArtifacts 578/1800The Wine-Flask Over Which the PlanWas HatchedGoblet of Eonothem+20+20+20+20+20+20+20+20Pyro DMG Bonus46.6%+20+20+20+20+20+20+20+20+20CRIT Rate+3.1%ATK+37Elemental Mastery+47+20+20+20+20+20+20+20+20ATK+14.0%Unfinished Reverie:2-Piece Set: ATK +18%.4-Piece Set: Afterleavingcombat for 3s, DMG dealt+20+20+20+20+20+20+20+20increased by 50%. In combat; ifnoBurning opponents arenearby for more than 6S, thisDMG Bonus will decrease by1nnarcaranduntil i+roanhacEquipped: GamingArtifact1EAuto-LockSalvageDetailsUID: 834667065ArtifactsuiArtifacts 578/1800Harmonious Symphony PreludeFlower of Life+20+20+20+20+20+20+20+20HP4,780+20+20+20+20+20+20+20+20+20CRIT Rate+3.9%CRIT DMG+21.8%DEF+7.3%+20+20+20+20+20+20+20+20DEF+63Fragment of Harmonic Whimsy:2-Piece Set: ATK +18%.4-Piece Set: When the value of aBond of Life increases or+20+20+20+20+20+20+20+20decreases, this character deals18% increased DMG for 6s. Max3 stacksAn honorary medal in the shape ofEquipped: XinyanArtifact1EAuto-LockSalvageDetailsUID: 834667065ArtifactsuiArtifacts 578/1800Harmonious Symphony PreludeFlower of Life+20+20+20+20+20+20+20+20HP4,780+20+20+20+20+20+20+20+20+20Energy Recharge+5.8%Elemental Mastery+61CRIT DMG+18.7%+20+20+20+20+20+20+20+20DEF+19Fragment of Harmonic Whimsy:2-Piece Set: ATK +18%.4-Piece Set: When the value 0f aBond of Life increases or+20+20+20+20+20+20+20+20decreases, this character deals18% increased DMG for 6s. Max3 stacksAn honorary medal in the shape ofEquipped: ThomaArtifact1EAuto-LockSalvageDetailsUID: 834667065ArtifactsuiArtifacts 578/1800Ancient Sea's Nocturnal Musing Plume of Death+20+20+20+20+20+20+20+20ATK311+20+20+20+20+20+20+20+20+20HP+239Elemental Mastery+79CRIT Rate+6.6%+20+20+20+20+20+20+20+20CRIT DMG+12.4%Fragment of Harmonic Whimsy:2-Piece Set: ATK +18%.4-Piece Set: When the value of aBond of Life increases or+20+20+20+20+20+20+20+20decreases, this character deals18% increased DMG for 6s. Max3 stacksA feather accessory carved in theEquipped: XinyanArtifact1EAuto-LockSalvageDetailsUID: 834667065ArtifactsuiArtifacts 578/1800Whimsical Dance of the WitheredCirclet of Logos+20+20+20+20+20+20+20+20CRIT Rate31.1%+20+20+20+20+20+20+20+20+20ATK+8.7%CRIT DMG+18.7%HP+269+20+20+20+20+20+20+20+20Energy Recharge+15.5%Fragment of Harmonic Whimsy:2-Piece Set: ATK +18%.4-Piece Set: When the value of aBond of Life increases or+20+20+20+20+20+20+20+20decreases, this character deals18% increased DMG for 6s. Max3 stacks.A mask once covered inleaf.Equipped: XinyanArtifact1EAuto-LockSalvageDetailsUID: 834667065goldArtifactsMArtifacts 578/1800Whimsical Dance of the WitheredCirclet of Logos+20+20+20+20+20+20+20+20CRIT DMG62.2%+20+20+20+20+20+20+20+20+20CRIT Rate+7.4%HP+209ATK+19.2%+20+20+20+20+20+20+20+20DEF+21Fragment of Harmonic Whimsy:2-Piece Set: ATK +18%.4-Piece Set: When the value of aBond of Life increases or+20+20+20+20+20+20+20+20decreases, this character deals18% increased DMG for 6s. Max3 stacksmask once covered inleaf.Equipped: Raiden ShogunArtifact1EAuto-LockSalvageDetailsUID: 834667065goldArtifactswiArtifacts 578/1800Whimsical Dance of the WitheredCirclet of Logos+20+20+20+20+20+20+20+20CRIT DMG62.2%+20+20+20+20+20+20+20+20+20HP+8.7%CRIT Rate+7.0%HP+837+20+20+20+20+20+20+20+20ATK+14Fragment of Harmonic Whimsy:2-Piece Set: ATK +18%.4-Piece Set: When the value of aBond of Life increases or+20+20+20+20+20+20+20+20decreases, this character deals18% increased DMG for 6s. Max3 stacksA mask once covered inleaf.Equipped: GamingArtifact1EAuto-LockSalvageDetailsUID: 834667065gold
+slotKey = goblet
+Main stat = eleMas
+level = 20
+hp_ 14.0
+hp 269.0
+def_ 63.0
+critDMG_ 7.8
+setKey = UnfinishedReverie
+==============================
+slotKey = goblet
+level = 20
+critRate_ 3.1
+atk 37.0
+eleMas 47.0
+atk_ 14.0
+setKey = UnfinishedReverie
+location = Gaming
+==============================
+slotKey = flower
+Main stat = hp
+level = 20
+critRate_ 3.9
+critDMG_ 21.8
+def_ 7.3
+def_ 63.0
+setKey = FragmentOfHarmonicWhimsy
+location = Xinyan
+==============================
+slotKey = flower
+Main stat = hp
+level = 20
+enerRech_ 5.8
+eleMas 61.0
+critDMG_ 18.7
+def_ 19.0
+setKey = FragmentOfHarmonicWhimsy
+location = Thoma
+==============================
+slotKey = plume
+Main stat = atk
+level = 20
+hp 239.0
+eleMas 79.0
+critRate_ 6.6
+critDMG_ 12.4
+setKey = FragmentOfHarmonicWhimsy
+location = Xinyan
+==============================
+slotKey = circlet
+level = 20]
+atk_ 8.7
+critDMG_ 18.7
+hp 269.0
+enerRech_ 15.5
+setKey = FragmentOfHarmonicWhimsy
+location = Xinyan
+==============================

@@ -1,6 +1,15 @@
 class Artifact:
     def __init__(
-        self, setKey, slotKey, level, rarity, mainStatKey, location, lock, substats, id
+        self,
+        setKey=None,
+        slotKey=None,
+        level=None,
+        rarity=None,
+        mainStatKey=None,
+        location=None,
+        lock=None,
+        substats=None,
+        id=None,
     ) -> None:
         self.setKey = setKey
         self.slotKey = slotKey
